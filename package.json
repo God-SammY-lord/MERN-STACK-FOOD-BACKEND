@@ -1,5 +1,8 @@
 {
   "name": "food_site_backend",
+  "engines": {
+    "node": "16.6"
+  },
   "version": "1.0.0",
   "description": "Backend for my Food Website",
   "main": "index.js",
